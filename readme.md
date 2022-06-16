@@ -131,7 +131,7 @@ heroku open
 You can also changed your website url by running this command:
 
 ```
-heroku apps:rename natours-users
+heroku apps:rename Ritours-users
 ```
 
 ## Build With

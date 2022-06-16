@@ -57,7 +57,7 @@ module.exports = class Email{
   }
 
   async sendWelcome(){
-    await this.send('welcome' , 'Welcome to the natours Family')
+    await this.send('welcome' , 'Welcome to the Ritours Family')
   }
 
   async sendPasswordRest(){
