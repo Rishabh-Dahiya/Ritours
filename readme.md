@@ -42,7 +42,7 @@ Live demo (Feel free to visit) 👉 :https://ritours.herokuapp.com/
 
 #### Signup :
 
-https://user-images.githubusercontent.com/60999728/171215415-18ee1033-2187-46fa-8c73-f6b4369d4d64.mp4
+
 
 #### Login :
 
