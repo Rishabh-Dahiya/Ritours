@@ -18,7 +18,7 @@ DATABASE="mongodb+srv://Rishabh:<PASSWORD>@cluster0.4tsos.mongodb.net/ritours?re
 const DB=DATABASE.replace('<PASSWORD>',process.env.DATABASE_PASSWORD);
 
 
-mongoose.connect(DB).then(con=> console.log('connection is success'))
+mongoose.connect(DB).then(con=> console.log('connection is success '))
 //connect to local database
 
 const port=process.env.PORT || 8000;
