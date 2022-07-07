@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <br>
   <a href="https://ritours.herokuapp.com/"><img src="https://github.com/Rishabh-Dahiya/Ritours/blob/master/public/img/logo-green-round.png" alt="Ritours" width="200"></a>
@@ -63,8 +62,6 @@ https://user-images.githubusercontent.com/60999728/171216192-7714e860-affb-44fc-
 #### User Profile :
 
 https://user-images.githubusercontent.com/60999728/171216322-b518b813-9041-4964-a0d5-a1359fac3f35.mp4
-
-
 
 ## How To Use
 
@@ -189,4 +186,3 @@ Please enjoy and feel free to share your opinion, constructive criticism, or com
 - Featured Tours
 - Recently Viewed Tours
 - And More ! There's always room for improvement!
-
