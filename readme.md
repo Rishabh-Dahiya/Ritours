@@ -177,7 +177,7 @@ eslint-plugin-import eslint-plugin-jsx-a11y  eslint-plugin-react --save-dev
 ## Known Bugs
 
 Feel free to email me at rishabdahiya2k@gmail.com if you run into any issues or have questions, ideas or concerns.
-Please enjoy and feel free to share your opinion, constructive criticism, or comments about my work. Thank you! 🙂
+Please enjoy and feel free to share your opinion, constructive criticism, or comments about my work. Thank you! 🙂😊
 
 ## Future Updates
 
@@ -186,3 +186,4 @@ Please enjoy and feel free to share your opinion, constructive criticism, or com
 - Featured Tours
 - Recently Viewed Tours
 - And More ! There's always room for improvement!
+ 
